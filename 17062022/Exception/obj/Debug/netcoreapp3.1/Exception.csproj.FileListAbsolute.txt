@@ -1,0 +1,14 @@
+C:\Users\Eagha\Desktop\CodeLessons\P227\25. 17-06-2022\17062022\Exception\bin\Debug\netcoreapp3.1\Exception.exe
+C:\Users\Eagha\Desktop\CodeLessons\P227\25. 17-06-2022\17062022\Exception\bin\Debug\netcoreapp3.1\Exception.deps.json
+C:\Users\Eagha\Desktop\CodeLessons\P227\25. 17-06-2022\17062022\Exception\bin\Debug\netcoreapp3.1\Exception.runtimeconfig.json
+C:\Users\Eagha\Desktop\CodeLessons\P227\25. 17-06-2022\17062022\Exception\bin\Debug\netcoreapp3.1\Exception.runtimeconfig.dev.json
+C:\Users\Eagha\Desktop\CodeLessons\P227\25. 17-06-2022\17062022\Exception\bin\Debug\netcoreapp3.1\Exception.dll
+C:\Users\Eagha\Desktop\CodeLessons\P227\25. 17-06-2022\17062022\Exception\bin\Debug\netcoreapp3.1\Exception.pdb
+C:\Users\Eagha\Desktop\CodeLessons\P227\25. 17-06-2022\17062022\Exception\obj\Debug\netcoreapp3.1\Exception.csproj.AssemblyReference.cache
+C:\Users\Eagha\Desktop\CodeLessons\P227\25. 17-06-2022\17062022\Exception\obj\Debug\netcoreapp3.1\Exception.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eagha\Desktop\CodeLessons\P227\25. 17-06-2022\17062022\Exception\obj\Debug\netcoreapp3.1\Exception.AssemblyInfoInputs.cache
+C:\Users\Eagha\Desktop\CodeLessons\P227\25. 17-06-2022\17062022\Exception\obj\Debug\netcoreapp3.1\Exception.AssemblyInfo.cs
+C:\Users\Eagha\Desktop\CodeLessons\P227\25. 17-06-2022\17062022\Exception\obj\Debug\netcoreapp3.1\Exception.csproj.CoreCompileInputs.cache
+C:\Users\Eagha\Desktop\CodeLessons\P227\25. 17-06-2022\17062022\Exception\obj\Debug\netcoreapp3.1\Exception.dll
+C:\Users\Eagha\Desktop\CodeLessons\P227\25. 17-06-2022\17062022\Exception\obj\Debug\netcoreapp3.1\Exception.pdb
+C:\Users\Eagha\Desktop\CodeLessons\P227\25. 17-06-2022\17062022\Exception\obj\Debug\netcoreapp3.1\Exception.genruntimeconfig.cache

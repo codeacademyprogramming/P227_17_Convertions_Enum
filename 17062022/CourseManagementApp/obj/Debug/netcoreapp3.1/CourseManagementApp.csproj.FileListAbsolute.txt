@@ -1,0 +1,14 @@
+C:\Users\Eagha\Desktop\CodeLessons\P227\25. 17-06-2022\17062022\CourseManagementApp\bin\Debug\netcoreapp3.1\CourseManagementApp.exe
+C:\Users\Eagha\Desktop\CodeLessons\P227\25. 17-06-2022\17062022\CourseManagementApp\bin\Debug\netcoreapp3.1\CourseManagementApp.deps.json
+C:\Users\Eagha\Desktop\CodeLessons\P227\25. 17-06-2022\17062022\CourseManagementApp\bin\Debug\netcoreapp3.1\CourseManagementApp.runtimeconfig.json
+C:\Users\Eagha\Desktop\CodeLessons\P227\25. 17-06-2022\17062022\CourseManagementApp\bin\Debug\netcoreapp3.1\CourseManagementApp.runtimeconfig.dev.json
+C:\Users\Eagha\Desktop\CodeLessons\P227\25. 17-06-2022\17062022\CourseManagementApp\bin\Debug\netcoreapp3.1\CourseManagementApp.dll
+C:\Users\Eagha\Desktop\CodeLessons\P227\25. 17-06-2022\17062022\CourseManagementApp\bin\Debug\netcoreapp3.1\CourseManagementApp.pdb
+C:\Users\Eagha\Desktop\CodeLessons\P227\25. 17-06-2022\17062022\CourseManagementApp\obj\Debug\netcoreapp3.1\CourseManagementApp.csproj.AssemblyReference.cache
+C:\Users\Eagha\Desktop\CodeLessons\P227\25. 17-06-2022\17062022\CourseManagementApp\obj\Debug\netcoreapp3.1\CourseManagementApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eagha\Desktop\CodeLessons\P227\25. 17-06-2022\17062022\CourseManagementApp\obj\Debug\netcoreapp3.1\CourseManagementApp.AssemblyInfoInputs.cache
+C:\Users\Eagha\Desktop\CodeLessons\P227\25. 17-06-2022\17062022\CourseManagementApp\obj\Debug\netcoreapp3.1\CourseManagementApp.AssemblyInfo.cs
+C:\Users\Eagha\Desktop\CodeLessons\P227\25. 17-06-2022\17062022\CourseManagementApp\obj\Debug\netcoreapp3.1\CourseManagementApp.csproj.CoreCompileInputs.cache
+C:\Users\Eagha\Desktop\CodeLessons\P227\25. 17-06-2022\17062022\CourseManagementApp\obj\Debug\netcoreapp3.1\CourseManagementApp.dll
+C:\Users\Eagha\Desktop\CodeLessons\P227\25. 17-06-2022\17062022\CourseManagementApp\obj\Debug\netcoreapp3.1\CourseManagementApp.pdb
+C:\Users\Eagha\Desktop\CodeLessons\P227\25. 17-06-2022\17062022\CourseManagementApp\obj\Debug\netcoreapp3.1\CourseManagementApp.genruntimeconfig.cache
